@@ -24,7 +24,7 @@ python Q1_data_cleanup.py
 ### ✅ Q2 – Dictionary-Based Stats
 
 ```bash
-python Q2_user_stats.py
+python Q2_dict_based_stats.py
 ```
 
 > Takes a dictionary of scores and returns average, min, and max for each user.
@@ -34,7 +34,7 @@ python Q2_user_stats.py
 ### ✅ Q3 – Iris Classifier
 
 ```bash
-python Q3_iris_classifier.py
+python Q3_classifier.py
 ```
 
 > Trains a Decision Tree on Iris dataset, predicts on test data, and plots a confusion matrix.
@@ -53,7 +53,7 @@ python Q4_linear_regression.py
 
 ### ✅ Q5 – ML Concepts
 
-Open `Q5_concepts.txt` to view short, clear answers to ML conceptual questions.
+Open `Q5_conceptual_questions.txt` to view short, clear answers to ML conceptual questions.
 
 ---
 
