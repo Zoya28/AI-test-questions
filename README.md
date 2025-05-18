@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the Test, which covers Python, Data Manipulation, Machine Learning, and NLP tasks using open-source libraries like NumPy, pandas, scikit-learn, and matplotlib.
 
-## 📦 Installation
+## Installation
 
 Run the following command to install all required libraries:
 
@@ -10,9 +10,9 @@ Run the following command to install all required libraries:
 pip install -r requirements.txt
 ```
 
-## 🧪 How to Run Each File
+## How to Run Each File
 
-### ✅ Q1 – Data Cleanup & Summary
+### Q1 – Data Cleanup & Summary
 ```bash
 python Q1_data_cleanup.py
 ````
@@ -21,7 +21,7 @@ python Q1_data_cleanup.py
 
 ---
 
-### ✅ Q2 – Dictionary-Based Stats
+### Q2 – Dictionary-Based Stats
 
 ```bash
 python Q2_dict_based_stats.py
@@ -31,7 +31,7 @@ python Q2_dict_based_stats.py
 
 ---
 
-### ✅ Q3 – Iris Classifier
+### Q3 – Iris Classifier
 
 ```bash
 python Q3_classifier.py
@@ -41,7 +41,7 @@ python Q3_classifier.py
 
 ---
 
-### ✅ Q4 – Simple Linear Regression
+### Q4 – Simple Linear Regression
 
 ```bash
 python Q4_linear_regression.py
@@ -51,13 +51,13 @@ python Q4_linear_regression.py
 
 ---
 
-### ✅ Q5 – ML Concepts
+### Q5 – ML Concepts
 
 Open `Q5_conceptual_questions.txt` to view short, clear answers to ML conceptual questions.
 
 ---
 
-### ✅ Q6 – NLP: Sentiment Classification
+### Q6 – NLP: Sentiment Classification
 
 ```bash
 python Q6_nlp_classifier.py
