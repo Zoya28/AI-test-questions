@@ -2,6 +2,14 @@
 
 This repository contains my solutions to the AI Internship Test, which covers Python, Data Manipulation, Machine Learning, and NLP tasks using open-source libraries like NumPy, pandas, scikit-learn, and matplotlib.
 
+## 📦 Installation
+
+Run the following command to install all required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🧪 How to Run Each File
 
 ### ✅ Q1 – Data Cleanup & Summary
