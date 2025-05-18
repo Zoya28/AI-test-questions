@@ -1,6 +1,6 @@
 # AI Test Questions
 
-This repository contains my solutions to the AI Internship Test, which covers Python, Data Manipulation, Machine Learning, and NLP tasks using open-source libraries like NumPy, pandas, scikit-learn, and matplotlib.
+This repository contains my solutions to the Test, which covers Python, Data Manipulation, Machine Learning, and NLP tasks using open-source libraries like NumPy, pandas, scikit-learn, and matplotlib.
 
 ## 📦 Installation
 
