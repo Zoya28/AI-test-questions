@@ -67,7 +67,7 @@ python Q6_nlp_classifier.py
 
 ---
 
-## 🛠 Libraries Used
+## Libraries Used
 
 * Python 
 * pandas
