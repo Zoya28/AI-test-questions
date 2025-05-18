@@ -1,0 +1,14 @@
+Q1. What is overfitting in machine learning?
+Overfitting occurs when a model learns the training data too well and captures noise and details that reduce its performance on new and unseen data.
+
+Q.2 When would you use a decision tree over logistic regression?
+When a model is needed that captures non-linear relationships and interactions between features which logistic regression might miss due to its linear nature.
+
+Q.3 Explain the train-test split and why it’s important.
+Train-test-split divides data into training and testing sets to evaluate a model’s performance on unseen data.
+
+Q.4 What’s the purpose of normalization?
+Normalization is a preprocessing technique which is used to make all the numerical features fall in the same range, usually between 0 and 1.
+
+Q.5 What’s the difference between classification and regression?
+Classification predicts discrete labels or categories while regression predicts continuous numerical values.
