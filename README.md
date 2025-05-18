@@ -82,5 +82,5 @@ python Q6_nlp_classifier.py
 
 You can reach me on:
 
-* [LinkedIn](https://linkedin.com/Zoya28)
+* [LinkedIn](https://www.linkedin.com/in/zoya28/)
 
